@@ -6,7 +6,7 @@ To develop this application there was a need to get accurate weather report for 
 ### Project Description:- 
 This weather finer application is such a app that gives the information of weather i.e. temperature (Celsius / Kelvin / Fahrenheit), Speed of wind (kph/mph). It is a very important to check the weather report before takeoff of any flight, launching of satellites and planning for new adventures etc.  
 At first, I created a React.js Template using Html, CSS, JavaScript and Bootstrap then created a form by which users can fill form providing the location and some other aspects as input then click on Find Weather button. After that, API is called through Node.js and React technology and get print the data of weather on user’s screen.
-At Second Step, I created a Microsoft Azure account for deploying the project into the Server of Microsoft Azure. After creating Azure account, I used Web App Service of Azure. At the end, I uploaded my project in Azure (https://weatherapps.azurewebsites.net) and GitHub (https://github.com/trivedi2u/weatherfinder) using Git.
+At Second Step, I created a Microsoft Azure account for deploying the project into the Server of Microsoft Azure. After creating Azure account, I used Web App Service of Azure. At the end, I uploaded my project in Azure (https://weatherapps.azurewebsites.net) and GitHub (https://github.com/Nandkishor9/Weather-Finder.git) using Git.
 Finally I completed my project using Microsoft azure to publish my project over the Internet. Overall, I learned Microsoft Azure Technology and fully enjoyed the whole expenditure.
 Primary Azure Technology:- Azure Web Apps, App Service, API Apps
 Other Azure Technologies:- Visual Studio Code, Git
