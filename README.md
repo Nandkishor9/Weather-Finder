@@ -11,6 +11,6 @@ Finally I completed my project using Microsoft azure to publish my project over 
 Primary Azure Technology:- Azure Web Apps, App Service, API Apps
 Other Azure Technologies:- Visual Studio Code, Git
 ### Project Link (GitHub repository URL):- 
-https://github.com/Nandkishor9/weatherfinder
+https://github.com/Nandkishor9/Weather-Finder.git
 ### Project Demo URL:-
 https://weatherapps.azurewebsites.net
